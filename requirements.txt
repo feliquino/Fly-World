@@ -1,6 +1,6 @@
 flet
 flet_map
-requets
+requests
 random
 csv
 math
