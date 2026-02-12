@@ -1,6 +1,6 @@
 {
     "es": {
-    "home_title": "¡Bienvenido a World Air!",
+    "home_title": "¡Bienvenido a Fly World!",
     "map_instructions": "Haz clic en el mapa para agregar un marcador o mantén presionado para un círculo.",
     "search_label": "Buscar lugar",
     "search_tooltip": "Buscar",
@@ -71,7 +71,7 @@
     "travel_tips": "Consejos de viaje"
     },
     "en": {
-    "home_title": "Welcome to World Air!",
+    "home_title": "Welcome to Fly World!",
     "map_instructions": "Click the map to add a marker, or hold to draw a circle.",
     "search_label": "Search place",
     "search_tooltip": "Search",
@@ -142,7 +142,7 @@
     "travel_tips": "Travel tips"
     },
     "fr": {
-    "home_title": "Bienvenue à World Air!",
+    "home_title": "Bienvenue à Fly World!",
     "map_instructions": "Cliquez sur la carte pour ajouter un marqueur ou maintenez pour un cercle.",
     "search_label": "Rechercher un lieu",
     "search_tooltip": "Chercher",
@@ -213,7 +213,7 @@
     "travel_tips": "Conseils de voyage"
     },
     "it": {
-    "home_title": "Benvenuto su World Air!",
+    "home_title": "Benvenuto su Fly World!",
     "map_instructions": "Clicca sulla mappa per aggiungere un segnaposto o tieni premuto per un cerchio.",
     "search_label": "Cerca un luogo",
     "search_tooltip": "Cerca",
@@ -284,7 +284,7 @@
     "travel_tips": "Consigli di viaggio"
     },
     "de": {
-    "home_title": "Willkommen bei World Air!",
+    "home_title": "Willkommen bei Fly World!",
     "map_instructions": "Klicke auf die Karte, um eine Markierung hinzuzufügen, oder halte gedrückt, um einen Kreis zu erstellen.",
     "search_label": "Ort suchen",
     "search_tooltip": "Suchen",
@@ -355,7 +355,7 @@
     "travel_tips": "Reisetipps"
     },
     "ja": {
-    "home_title": "World Airへようこそ!",
+    "home_title": "Fly Worldへようこそ!",
     "map_instructions": "地図をクリックしてマーカーを追加、または長押しして円を作成します。",
     "search_label": "場所を検索",
     "search_tooltip": "検索",
@@ -426,7 +426,7 @@
     "travel_tips": "旅行のヒント"
     },
     "ch": {
-    "home_title": "欢迎来到 World Air!",
+    "home_title": "欢迎来到 Fly World!",
     "map_instructions": "点击地图添加标记，或按住绘制圆圈。",
     "search_label": "搜索地点",
     "search_tooltip": "搜索",
@@ -497,7 +497,7 @@
     "travel_tips": "旅行贴士"
     },
     "ar": {
-    "home_title": "مرحبًا بك في World Air!",
+    "home_title": "مرحبًا بك في Fly World!",
     "map_instructions": "انقر على الخريطة لإضافة علامة أو اضغط مطولًا لإنشاء دائرة.",
     "search_label": "ابحث عن موقع",
     "search_tooltip": "بحث",
