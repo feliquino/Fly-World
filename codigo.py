@@ -1257,6 +1257,7 @@ def main(page: ft.Page):
 
     update_navigation_labels()
     show_splash()
-ft.app(main, view=ft.AppView.WEB_BROWSER, assets_dir="assets", web_renderer="html")
+ft.app(main, view=ft.AppView.WEB_BROWSER, assets_dir="assets")
+
 
 
