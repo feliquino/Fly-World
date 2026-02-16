@@ -149,6 +149,7 @@ def save_settings(settings):
 def main(page: ft.Page):
     page.title = "Fly World - Flight calculator"
     page.bgcolor = ft.Colors.ORANGE_300
+    page.window.icon = "Fly_World_plane.png"
 
     # Loading screen
     def show_splash():
@@ -1258,6 +1259,3 @@ def main(page: ft.Page):
     update_navigation_labels()
     show_splash()
 ft.app(main, view=ft.AppView.WEB_BROWSER, assets_dir="assets")
-
-
-
